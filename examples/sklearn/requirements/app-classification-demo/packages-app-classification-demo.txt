@@ -10,7 +10,7 @@ kiwisolver==1.4.9
 matplotlib==3.10.7
 numpy==2.3.3
 packaging==25.0
-pillow==11.3.0
+pillow==13.0.0
 pyparsing==3.2.5
 pyside6-addons==6.10.0
 pyside6-essentials==6.10.0
